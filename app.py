@@ -34,7 +34,7 @@ except FileNotFoundError:
     st.error("File data tidak ditemukan.")
     st.stop()
 
-location_map = {0: "Kulon Progo", 1: "Gunungkidul", 2: "Sleman", 3: "Kota Yogyakarta", 4: "Bantul"}
+location_map = {0: "Bantul", 1: "Gunungkidul", 2: "Kulon Progo", 3: "Sleman", 4: "Kota Yogyakarta"}
 df['location'] = df['location'].replace(location_map)
 
 # Sidebar filter
