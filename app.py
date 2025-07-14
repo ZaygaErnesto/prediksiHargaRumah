@@ -28,7 +28,7 @@ st.set_page_config(
 
 # --- Load Data ---
 try:
-    df = load_data('/mnt/data/rumah123_yogya_cleaned.csv')
+    df = load_data('rumah123_yogya_cleaned.csv')
 except FileNotFoundError:
     st.error("File data tidak ditemukan.")
     st.stop()
