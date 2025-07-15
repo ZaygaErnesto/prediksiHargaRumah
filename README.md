@@ -4,9 +4,8 @@ Dasbor interaktif yang dibangun menggunakan Streamlit untuk menganalisis data pr
 
 Data yang digunakan dalam proyek ini diambil dari situs `Rumah123.com` dan telah melalui proses pembersihan.
 
-
-
-
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/bb2ea527-7423-45b8-b111-7e7ca9dea18b" />
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/a2da190c-44a1-4011-9e70-c3e16df068f4" />
 
 ## ✨ Fitur Utama
 
